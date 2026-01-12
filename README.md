@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Stable%20Diffusion-orange)
 ![Colab](https://img.shields.io/badge/Colab-Open%20Notebook-F9AB00?logo=googlecolab&color=525252)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## ⚠️ Important Note / Catatan Penting
 **Due to GitHub storage limitations, the core training pipeline and main code for this project are hosted on Google Colab.**
